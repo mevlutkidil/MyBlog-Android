@@ -1,4 +1,4 @@
-package Fragments;
+package com.example.myblog.Fragments;
 
 import android.os.Bundle;
 

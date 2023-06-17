@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "191588408214",
     "project_id": "myblog-d5e66",
-    "storage_bucket": "myblog-71137.appspot.com"
+    "storage_bucket": "myblog-d5e66-default-rtdb.firebaseio.com"
   },
   "client": [
     {
